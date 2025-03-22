@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: course-registration
+
+  profiles:
+    active: local
+
+logging:
+  level:
+    root: INFO
